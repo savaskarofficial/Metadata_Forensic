@@ -1,0 +1,15 @@
+*.apk
+*.aab
+*.zip
+*.jks
+*.keystore
+local.properties
+.gradle/
+build/
+app/
+src/
+*.java
+*.kt
+*.gradle
+*.gradle.kts
+*.log
